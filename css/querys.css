@@ -48,13 +48,13 @@
 
 }
 
-/* Desktop */
+/* 1024 */
 
 @media (min-width:1024px){
 
     .nav__links{
         padding-right: 1.25em;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .section__title{
@@ -66,6 +66,8 @@
     }
 
 }
+
+/* 1366px */
 
 @media (min-width:1366px){
 
@@ -101,7 +103,7 @@
 @media (min-width:1920px){
 
     html{
-        font-size: 1.9rem;
+        font-size: 1.8rem;
     }
 
 }

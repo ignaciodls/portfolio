@@ -43,7 +43,7 @@ body{
 .nav__link{
     color: white;
     text-decoration: none;
-    font-size: .85em;
+    font-size: .75em;
     transition: .5s;
 }
 
@@ -52,7 +52,7 @@ body{
 }
 
 .nav{
-    padding: .7em 1em;
+    padding: .4em 1em;
     background: rgba(80, 80, 177, .85);
     position: fixed;
     z-index: 5;
@@ -64,7 +64,7 @@ body{
 }
 
 .nav__brand{
-    font-size: 1.8em;
+    font-size: 1.6em;
     font-weight: bold;
     color: white;
     letter-spacing: .1em;
